@@ -24,5 +24,5 @@ A desktop application for tracking and calculating employees' working hours, inc
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/HR-System-using-Cpp.git
+   git clone https:https://github.com/Mahmoudfarag11/HR-System-using-Cpp.git
    cd HR-System-using-Cpp
